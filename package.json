@@ -17,7 +17,7 @@
     "chalk": "^2.4.1"
   },
   "peerDependencies": {
-    "testcafe": "^0.21.1"
+    "testcafe": "^0.21.0"
   },
   "devDependencies": {
     "eslint": "^5.3.0",

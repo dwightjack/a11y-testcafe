@@ -1,0 +1,6 @@
+/dist/
+/tmp/
+/public/
+/vendor-public/
+package.json
+*.generated.*
